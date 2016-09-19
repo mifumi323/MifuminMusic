@@ -1,0 +1,7 @@
+AppPackages/
+bin/
+obj/
+*.appx
+*.pfx
+*.suo
+*.user
