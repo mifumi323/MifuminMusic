@@ -1,8 +1,8 @@
 ﻿<Application
-    x:Class="MifuminMusic.App"
+    x:Class="MifuminSoft.MifuminMusic.App"
     xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-    xmlns:local="using:MifuminMusic"
+    xmlns:local="using:MifuminSoft.MifuminMusic"
     RequestedTheme="Light">
 
 </Application>
